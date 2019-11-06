@@ -1,0 +1,16 @@
+{
+    "aboutMe": {
+        "name": "I'm Susheel Valtoori",
+        "occupation": "UI/UX Developer",
+        "description": [
+            "Currently working as a UI/UX Developer with an expertise in front-end development and UX design.",
+            "Always learning about the latest frameworks and libraries on the market and have an appetite to learn more about the things that keep me interested.",
+            "Developed mockups and prototypes using HTML, CSS, Flexbox, Javascript and AngularJS",
+            "Experience in Responsive Web design, JSON, AJAX, AngularjJS, KnockoutJS, NodeJS and Twitter Bootstrap",
+            "Have a good understanding on OOPS concepts",
+            "Developed cross-browser compatible and CSS compliant standards for page layouts",
+            "Developed reusable components in Angular",
+            "Used Babel for backward compatibility of Javascript code (ES6 to ES5)"
+        ]
+    }
+}
